@@ -1,2 +1,5 @@
 auto-push.bat
 holiday_manager.exe
+Settings.ini
+log/*
+*.bak
