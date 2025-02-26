@@ -10,3 +10,4 @@ holiday_manager.exe %1 09
 holiday_manager.exe %1 10
 holiday_manager.exe %1 11
 holiday_manager.exe %1 12
+git add -A && git commit -m "update" && git push
